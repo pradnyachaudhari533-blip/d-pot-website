@@ -1,0 +1,1 @@
+The Markdown source contains these project files. The source document does not contain generated routeTree.gen.ts, UI component files under src/components/ui, or image assets referenced by Hero.tsx. Those may need to be copied from the original Lovable export/project.
